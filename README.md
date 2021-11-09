@@ -1,0 +1,2 @@
+# HUANANZHI-X99-F8-2021
+CX99DE29 BIOS for HUANANZHI X99-F8 GAMING Motherboard 11/09/2021 (For Motherboard 2021 Edition, with nuvoTon NCT5567D-B)
