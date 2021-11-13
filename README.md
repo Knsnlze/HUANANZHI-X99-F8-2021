@@ -15,7 +15,7 @@
 </a>
 
 ## RELEASES
-* ##### Release CX99DE29 11/09/2021
+* ##### Release CX99DE29 November 09, 2021
 
 <div align="left">
     <a href="https://github.com/BIOS-iEngineer/HUANANZHI-X99-F8-2021/releases">
