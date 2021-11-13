@@ -54,7 +54,7 @@
 ## HOW TO UPDATE THE FIRMWARE
 ##### ⚠️ If you have factory stock firmware - _YOU MUST USE A PROGRAMMER DEVICE!_ (e.g. EZP-2019 or CH341A)
 
-1. Burn the firmware with a programmer device. (e.g. EZP-2019 or CH341A)
+1. Burn the firmware with a programmer device. (e.g. EZP-2019 or CH341A) [Instruction for CH341A](https://www.miyconst.com/Blog/View/2086/ch341a-minimal-usage-guide-how-to-read-and-write-a-motherboard-bios)
 2. Clear CMOS by plugging motherboar power cables and removing the CMOS battery for a few seconds then plug again.
 3. After restart load setup defauls by entering the BIOS setting and then **Restore Defaults -> F10 -> Enter**
 4. Configure RAM timings and other settings and enjoy!
