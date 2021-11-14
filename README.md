@@ -66,3 +66,11 @@
 [IRSTe SATA RAID Driver for Windows 10 x64 Download](https://github.com/BIOS-iEngineer/SZMZ-X99-Dual-Z8/raw/main/Drivers/Windows%2010%20x64/IRSTe%20SATA%20C612/IRSTe%20SATA.zip)
 
 [PCIe Realtek GbE Driver for Windows 10 x64 Download](https://github.com/BIOS-iEngineer/SZMZ-X99-Dual-Z8/raw/main/Drivers/Windows%2010%20x64/PCIe%20Realtek%20GbE/PCIe%20Realtek%20GbE.zip)
+
+## SCREENSHOTS
+
+![CX99DE29 BIOS for HUANANZHI X99-F8 GAMING Motherboard 11/09/2021](https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/CX99DE29-001.png)
+![CX99DE29 BIOS for HUANANZHI X99-F8 GAMING Motherboard 11/09/2021](https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/CX99DE29-002.png)
+![CX99DE29 BIOS for HUANANZHI X99-F8 GAMING Motherboard 11/09/2021](https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/CX99DE29-003.png)
+![CX99DE29 BIOS for HUANANZHI X99-F8 GAMING Motherboard 11/09/2021](https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/CX99DE29-004.png)
+![CX99DE29 BIOS for HUANANZHI X99-F8 GAMING Motherboard 11/09/2021](https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/CX99DE29-005.png)
