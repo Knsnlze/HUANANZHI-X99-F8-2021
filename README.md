@@ -67,6 +67,8 @@
 
 [PCIe Realtek GbE Driver for Windows 10 x64 Download](https://github.com/BIOS-iEngineer/SZMZ-X99-Dual-Z8/raw/main/Drivers/Windows%2010%20x64/PCIe%20Realtek%20GbE/PCIe%20Realtek%20GbE.zip)
 
+[Realtek High Definition Audio Drivers 2.81 for Windows 10 x64 Download (Google Search)](https://www.google.com/search?client=firefox-b-d&q=Realtek+High+Definition+Audio+Drivers+2.81+for+Windows+10+x64+Download)
+
 ## SCREENSHOTS
 
 ![CX99DE29 BIOS for HUANANZHI X99-F8 GAMING Motherboard 11/09/2021](https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/CX99DE29-001.png)
