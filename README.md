@@ -5,7 +5,7 @@
 
 ![CX99DE29 BIOS for HUANANZHI X99-F8 GAMING Motherboard 11/09/2021](https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/X99F82021.jpg)
 
-### Sponsored by: Subscriber
+### Sponsored by: Subscriber from USA
 
 <a href="https://www.paypal.com/donate?hosted_button_id=ASF2H5CU95MUQ">
   <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/PayPal.png" alt="Donate with PayPal" />
