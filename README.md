@@ -7,13 +7,6 @@
 
 ### Sponsored by: Subscriber from USA
 
-<a href="https://www.paypal.com/donate?hosted_button_id=ASF2H5CU95MUQ">
-  <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/PayPal.png" alt="Donate with PayPal" />
-</a>
-<a href="https://www.paypal.com/donate?hosted_button_id=ASF2H5CU95MUQ">
-  <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/QR-PayPal.png" alt="Donate with PayPal" />
-</a>
-
 ## RELEASES
 * ##### Release CX99DE29 November 09, 2021
 
